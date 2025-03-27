@@ -7,7 +7,7 @@
             <xs:sequence>
               <xs:element name="Name" type="xs:string"/>
               <xs:element name="Rating" type="xs:float" minOccurs="0"/>
-              <xs:element name="PhonesNumber">
+              <xs:element name="PhonesNumberList">
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element name="PhoneNumber" type="xs:string" maxOccurs="unbounded"/>
