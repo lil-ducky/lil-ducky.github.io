@@ -17,7 +17,6 @@
     </Hotel>
     <Hotel>
         <Name>Jhon2 Hotel</Name>
-        <Rating>4.5</Rating>
         <PhoneNumberList>
             <PhoneNumber>1234567890</PhoneNumber>
             <PhoneNumber>0123456789</PhoneNumber>
