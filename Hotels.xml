@@ -3,33 +3,19 @@
     <Hotel>
         <Name>Jhon Hotel</Name>
         <Rating>4.5</Rating>
-        <PhonesNumberList>
-            <PhoneNumber>4593212345</PhoneNumber>
-            <PhoneNumber>4593342345</PhoneNumber>
-        </PhonesNumberList>
+        <PhoneNumberList>
+            <PhoneNumber>1234567890</PhoneNumber>
+            <PhoneNumber>0123456789</PhoneNumber>
+        </PhoneNumberList>
         <Address>
-            <Number>23</Number>
+            <Number>21</Number>
             <Street>Jhon St</Street>
             <City>Jhon City</City>
             <State>Jhon State</State>
-            <Zip>20011230</Zip>
+            <Zip>123456</Zip>
             <NearestAirport>Jhon Airport</NearestAirport>
         </Address>
     </Hotel>
-    <Hotel>
-        <Name>K Hotel</Name>
-        <Rating>4.5</Rating>
-        <PhonesNumberList>
-            <PhoneNumber>4593212345</PhoneNumber>
-            <PhoneNumber>4593342345</PhoneNumber>
-        </PhonesNumberList>
-        <Address>
-             <Number>23</Number>
-            <Street>K St</Street>
-            <City>K City</City>
-            <State>K State</State>
-            <Zip>20011230</Zip>
-            <NearestAirport>K Airport</NearestAirport>
-        </Address>
-    </Hotel>
 </Hotels>
+    
+        
