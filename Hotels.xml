@@ -2,10 +2,10 @@
     <Hotel>
         <Name>Jhon Hotel</Name>
         <Rating>4.5</Rating>
-        <PhonesNumber>
+        <PhonesNumberList>
             <PhoneNumber>4593212345</PhoneNumber>
             <PhoneNumber>4593342345</PhoneNumber>
-        </PhonesNumber>
+        </PhonesNumberList>
         <Address>
             <Number>23</Number>
             <Street>Jhon St</Street>
