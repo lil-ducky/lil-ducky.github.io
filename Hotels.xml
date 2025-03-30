@@ -11,6 +11,6 @@
             <State>Jhon State</State>
             <Zip>123456</Zip>
         </Address>
-        <Rating>"4.5"</Rating>
+        <Rating>4.5</Rating>
     </Hotel>
 </Hotels>
