@@ -10,13 +10,13 @@
               <xs:element name="Address" minOccurs="1">
                 <xs:complexType>
                   <xs:sequence>
-                          <xs:element name="Number" type="xs:int" minOccurs="1"/>
-                          <xs:element name="Street" type="xs:string" minOccurs="1"/>
-                          <xs:element name="City" type="xs:string" minOccurs="1"/>
-                          <xs:element name="State" type="xs:string" minOccurs="1"/>
-                          <xs:element name="Zip" type="xs:string" minOccurs="1"/>
+                    <xs:element name="Number" type="xs:int" minOccurs="1"/>
+                    <xs:element name="Street" type="xs:string" minOccurs="1"/>
+                    <xs:element name="City" type="xs:string" minOccurs="1"/>
+                    <xs:element name="State" type="xs:string" minOccurs="1"/>
+                    <xs:element name="Zip" type="xs:string" minOccurs="1"/>
                   </xs:sequence>
-                  <xs:attribute name="NearstAirport" type="xs:string" minOccurs="1"/>
+                  <xs:attribute name="NearstAirport" type="xs:string" use="required"/>
                 </xs:complexType>
               </xs:element>
               <xs:element name="Rating" type="xs:float" minOccurs="0"/>
