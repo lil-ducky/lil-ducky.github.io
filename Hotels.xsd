@@ -19,8 +19,8 @@
                   <xs:attribute name="NearstAirport" type="xs:string"/>
                 </xs:complexType>
               </xs:element>
+              <xs:element name="Rating" type="xs:float" use="optional"/>
             </xs:sequence>
-            <xs:attribute name="Rating" type="xs:float" use="optional"/>
           </xs:complexType>
         </xs:element>
       </xs:sequence>
