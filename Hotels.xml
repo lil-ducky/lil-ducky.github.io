@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-   
-    <Hotel Rating="4.5">
+     <Hotel>
         <Name>Jhon1 Hotel</Name>
         <Phone>1234567890</Phone>
         <Phone>1234567890</Phone>
@@ -12,113 +11,6 @@
             <State>Jhon State</State>
             <Zip>123456</Zip>
         </Address>
+        <Rating>4.5</Rating>
     </Hotel>
-    <Hotel>
-        <Name>Jhon2 Hotel</Name>
-        <Phone>1234567890</Phone>
-        <Phone>1234567890</Phone>
-        <Address NearstAirport="Jhon Airport">
-            <Number>21</Number>
-            <Street>Jhon St</Street>
-            <City>Jhon City</City>
-            <State>Jhon State</State>
-            <Zip>123456</Zip>
-        </Address>
-    </Hotel>
-    <Hotel Rating="4.5">
-        <Name>Jhon3 Hotel</Name>
-        <Phone>1234567890</Phone>
-        <Address NearstAirport="Jhon Airport">
-            <Number>21</Number>
-            <Street>Jhon St</Street>
-            <City>Jhon City</City>
-            <State>Jhon State</State>
-            <Zip>123456</Zip>
-        </Address>
-    </Hotel>
-    <Hotel Rating="4.5">
-        <Name>Jhon4 Hotel</Name>
-        <Phone>1234567890</Phone>
-        <Phone>1234567890</Phone>
-        <Address NearstAirport="Jhon Airport">
-            <Number>21</Number>
-            <Street>Jhon St</Street>
-            <City>Jhon City</City>
-            <State>Jhon State</State>
-            <Zip>123456</Zip>
-        </Address>
-    </Hotel>
-    <Hotel Rating="4.5">
-        <Name>Jhon5 Hotel</Name>
-        <Phone>1234567890</Phone>
-        <Phone>1234567890</Phone>
-        <Address NearstAirport="Jhon Airport">
-            <Number>21</Number>
-            <Street>Jhon St</Street>
-            <City>Jhon City</City>
-            <State>Jhon State</State>
-            <Zip>123456</Zip>
-        </Address>
-    </Hotel>
-    <Hotel Rating="4.5">
-        <Name>Jhon6 Hotel</Name>
-        <Phone>1234567890</Phone>
-        <Phone>1234567890</Phone>
-        <Address NearstAirport="Jhon Airport">
-            <Number>21</Number>
-            <Street>Jhon St</Street>
-            <City>Jhon City</City>
-            <State>Jhon State</State>
-            <Zip>123456</Zip>
-        </Address>
-    </Hotel>
-    <Hotel Rating="4.5">
-        <Name>Jhon7 Hotel</Name>
-        <Phone>1234567890</Phone>
-        <Phone>1234567890</Phone>
-        <Address NearstAirport="Jhon Airport">
-            <Number>21</Number>
-            <Street>Jhon St</Street>
-            <City>Jhon City</City>
-            <State>Jhon State</State>
-            <Zip>123456</Zip>
-        </Address>
-    </Hotel>
-    <Hotel Rating="4.5">
-        <Name>Jhon8 Hotel</Name>
-        <Phone>1234567890</Phone>
-        <Phone>1234567890</Phone>
-        <Address NearstAirport="Jhon Airport">
-            <Number>21</Number>
-            <Street>Jhon St</Street>
-            <City>Jhon City</City>
-            <State>Jhon State</State>
-            <Zip>123456</Zip>
-        </Address>
-    </Hotel>
-    <Hotel Rating="4.5">
-        <Name>Jhon9 Hotel</Name>
-        <Phone>1234567890</Phone>
-        <Phone>1234567890</Phone>
-        <Address NearstAirport="Jhon Airport">
-            <Number>21</Number>
-            <Street>Jhon St</Street>
-            <City>Jhon City</City>
-            <State>Jhon State</State>
-            <Zip>123456</Zip>
-        </Address>
-    </Hotel>
-    <Hotel Rating="4.5">
-        <Name>Jhon0 Hotel</Name>
-        <Phone>1234567890</Phone>
-        <Phone>1234567890</Phone>
-        <Address NearstAirport="Jhon Airport">
-            <Number>21</Number>
-            <Street>Jhon St</Street>
-            <City>Jhon City</City>
-            <State>Jhon State</State>
-            <Zip>123456</Zip>
-        </Address>
-    </Hotel>
-   
 </Hotels>
