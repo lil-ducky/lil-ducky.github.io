@@ -56,6 +56,7 @@
             <City>Jhon City</City>
             <State>Jhon State</State>
             <Zip>123456</Zip>
+            <NearestAirport>Jhon Airport</NearestAirport>
         </Address>
     </Hotel>
     <Hotel>
