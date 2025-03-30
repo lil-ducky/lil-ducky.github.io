@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-    <Hotel Rating=4.5>
+    <Hotel Rating="4.5">
         <Name>Jhon1 Hotel</Name>
         <Phone>1234567890</Phone>
         <Phone>1234567890</Phone>
